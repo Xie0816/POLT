@@ -392,27 +392,13 @@ conda run -n polt python polt.py \
 如果本仓库对你的研究有帮助，请引用对应论文：
 
 ```bibtex
-@inproceedings{xie2025polt,
+@inproceedings{xie2026polt,
   title     = {Remember Your Driving Feel: Proprioception Based Online Learning for UGV Traversability Across Complex Terrains},
   author    = {Zikang Xie and Binhan Du and Kexin Fei and Shucheng Li and Zhenping Sun and Xiaohui Li and Dewen Hu and Jian Li},
   booktitle = {Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year      = {2025},
+  year      = {2026},
   note      = {Please update publication details according to the final released paper.}
 }
 ```
-
-## License / Contact
-
-### License
-
-当前仓库尚未包含独立的 License 文件。
-
-在公开发布前，建议补充明确的开源许可证；如有使用问题，请联系作者。
-
-### Contact
-
-论文中给出的通信联系方式：
-
-- Jian Li: `lijian@nudt.edu.cn`
 
 如需在本地复现实验，请优先根据自己的数据路径、模型权重路径和依赖环境进行调整。

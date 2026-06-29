@@ -396,27 +396,13 @@ If you want to understand the repository quickly, the recommended reading order 
 If you find this repository useful, please cite the corresponding paper.
 
 ```bibtex
-@inproceedings{xie2025polt,
+@inproceedings{xie2026polt,
   title     = {Remember Your Driving Feel: Proprioception Based Online Learning for UGV Traversability Across Complex Terrains},
   author    = {Zikang Xie and Binhan Du and Kexin Fei and Shucheng Li and Zhenping Sun and Xiaohui Li and Dewen Hu and Jian Li},
   booktitle = {Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year      = {2025},
+  year      = {2026},
   note      = {Please update publication details according to the final released paper.}
 }
 ```
-
-## License / Contact
-
-### License
-
-This repository does not currently include a standalone license file.
-
-Please add the intended open-source license before public release, or contact the authors for usage questions.
-
-### Contact
-
-Corresponding contact from the paper source:
-
-- Jian Li: `lijian@nudt.edu.cn`
 
 如需在本地复现实验，请优先根据自己的数据路径、模型权重路径和依赖环境进行调整。
