@@ -1,0 +1,33 @@
+{
+  "unpaved_road": {
+    "cost_0": "unpaved_road_cost_0.json",
+    "cost_1": "unpaved_road_cost_1.json",
+    "cost_2": "unpaved_road_cost_2.json"
+  },
+  "grass_land": {
+    "cost_0": "grass_land_cost_0.json"
+  },
+  "barrier": {
+    "cost_0": "barrier_cost_0.json",
+    "cost_1": "barrier_cost_1.json",
+    "cost_2": "barrier_cost_2.json",
+    "cost_3": "barrier_cost_3.json",
+    "cost_4": "barrier_cost_4.json",
+    "cost_5": "barrier_cost_5.json",
+    "cost_6": "barrier_cost_6.json",
+    "cost_7": "barrier_cost_7.json",
+    "cost_8": "barrier_cost_8.json",
+    "cost_9": "barrier_cost_9.json",
+    "cost_10": "barrier_cost_10.json"
+  },
+  "paved_road": {
+    "cost_0": "paved_road_cost_0.json",
+    "cost_1": "paved_road_cost_1.json"
+  },
+  "fragile_barrier": {
+    "cost_0": "fragile_barrier_cost_0.json"
+  },
+  "puddle": {
+    "cost_0": "puddle_cost_0.json"
+  }
+}

@@ -1,0 +1,35 @@
+# POLT runtime environment tested with:
+# Python 3.11.13, PyTorch 2.7.1+cu118, CUDA wheel runtime 11.8.
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+--find-links https://data.pyg.org/whl/torch-2.7.1+cu118.html
+
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+torchaudio==2.7.1+cu118
+torch-scatter==2.1.2
+
+numpy==2.2.6
+opencv-python==4.12.0.88
+pillow==12.0.0
+matplotlib==3.10.7
+scipy==1.16.2
+scikit-learn==1.7.2
+gpytorch==1.14.3
+open3d==0.19.0
+einops==0.8.1
+fast-pytorch-kmeans==0.2.2
+PyYAML==6.0.2
+tqdm==4.67.1
+pandas==2.3.3
+transformers==4.57.1
+accelerate==1.11.0
+huggingface-hub==0.35.3
+safetensors==0.6.2
+datasets==3.6.0
+fvcore==0.1.5.post20221221
+iopath==0.1.9
+submitit==1.5.3
+pycocotools==2.0.10
+seaborn==0.13.2
+tensorboard==2.20.0

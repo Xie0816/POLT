@@ -1,0 +1,43 @@
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.o
+build/
+dist/
+*.egg-info/
+
+# Local environments
+.venv/
+venv/
+envs/
+.conda/
+
+# Model weights and learned feature caches
+weights/**/*.pth
+weights/**/*.pt
+*.ckpt
+*.safetensors
+model/vision/vlad_cache/*.pt
+
+# Runtime outputs
+planner_traces/
+outputs/
+logs/
+runs/
+
+# Notebook/editor/system artifacts
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# LaTeX build products
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
